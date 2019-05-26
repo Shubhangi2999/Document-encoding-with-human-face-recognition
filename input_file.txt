@@ -1,1 +1,0 @@
-hello! I am from jaypee institute of information technology, sector 128, noida. This is my algorithms and problem solving lab project. This project is about document encoding with human face verification. face verification is added just to provide a secure way to encode and decode the document.
